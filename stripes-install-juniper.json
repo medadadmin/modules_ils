@@ -1,0 +1,191 @@
+[
+    {
+        "id": "edge-caiasoft-1.0.0"
+    ,"action":"enable"},
+    {
+        "id": "edge-connexion-1.0.2"
+    ,"action":"enable"},
+    {
+        "id": "edge-dematic-1.2.2"
+    ,"action":"enable"},
+    {
+        "id": "edge-ncip-1.6.0"
+    ,"action":"enable"},
+    {
+        "id": "edge-oai-pmh-2.3.1"
+    ,"action":"enable"},
+    {
+        "id": "edge-orders-2.4.0"
+    ,"action":"enable"},
+    {
+        "id": "edge-patron-4.5.0"
+    ,"action":"enable"},
+    {
+        "id": "edge-rtac-2.2.0"
+    ,"action":"enable"},
+    {
+        "id": "edge-sip2-2.0.1"
+    ,"action":"enable"},
+    {
+        "id": "folio_acquisition-units-2.4.1"
+    ,"action":"enable"},
+    {
+        "id": "folio_agreements-6.1.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_analytics-1.1.4"
+    ,"action":"enable"},
+    {
+        "id": "folio_calendar-6.1.2"
+    ,"action":"enable"},
+    {
+        "id": "folio_checkin-5.1.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_checkout-6.1.2"
+    ,"action":"enable"},
+    {
+        "id": "folio_circulation-5.1.1"
+    ,"action":"enable"},
+    {
+        "id": "folio_circulation-log-1.2.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_courses-4.2.1"
+    ,"action":"enable"},
+    {
+        "id": "folio_dashboard-1.0.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_data-export-4.1.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_data-import-4.1.5"
+    ,"action":"enable"},
+    {
+        "id": "folio_developer-5.2.2"
+    ,"action":"enable"},
+    {
+        "id": "folio_eholdings-6.1.1"
+    ,"action":"enable"},
+    {
+        "id": "folio_erm-comparisons-2.1.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_erm-usage-5.1.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_export-manager-1.1.1"
+    ,"action":"enable"},
+    {
+        "id": "folio_finance-2.4.2"
+    ,"action":"enable"},
+    {
+        "id": "folio_inventory-7.1.4-0.11.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_inventory-es-6.4.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_invoice-2.3.2"
+    ,"action":"enable"},
+    {
+        "id": "folio_licenses-6.1.1"
+    ,"action":"enable"},
+    {
+        "id": "folio_local-kb-admin-4.1.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_myprofile-5.0.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_notes-5.0.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_oai-pmh-2.1.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_orders-2.3.1"
+    ,"action":"enable"},
+    {
+        "id": "folio_organizations-2.4.1"
+    ,"action":"enable"},
+    {
+        "id": "folio_plugin-bursar-export-1.1.2"
+    ,"action":"enable"},
+    {
+        "id": "folio_plugin-create-inventory-records-2.1.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_plugin-find-agreement-6.1.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_plugin-find-contact-2.4.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_plugin-find-eresource-2.1.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_plugin-find-erm-usage-data-provider-3.1.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_plugin-find-import-profile-4.1.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_plugin-find-instance-5.1.1"
+    ,"action":"enable"},
+    {
+        "id": "folio_plugin-find-interface-2.4.1"
+    ,"action":"enable"},
+    {
+        "id": "folio_plugin-find-license-6.1.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_plugin-find-organization-2.4.1"
+    ,"action":"enable"},
+    {
+        "id": "folio_plugin-find-package-title-3.1.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_plugin-find-po-line-2.4.1"
+    ,"action":"enable"},
+    {
+        "id": "folio_plugin-find-user-5.0.1"
+    ,"action":"enable"},
+    {
+        "id": "folio_quick-marc-3.1.0-0.8.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_receiving-1.4.2"
+    ,"action":"enable"},
+    {
+        "id": "folio_remote-storage-2.0.1"
+    ,"action":"enable"},
+    {
+        "id": "folio_requests-5.1.2"
+    ,"action":"enable"},
+    {
+        "id": "folio_search-4.1.0-0.4.1"
+    ,"action":"enable"},
+    {
+        "id": "folio_servicepoints-5.0.1"
+    ,"action":"enable"},
+    {
+        "id": "folio_stripes-core-7.2.0"
+    ,"action":"enable"},
+    {
+        "id": "folio_stripes-smart-components-6.1.2"
+    ,"action":"enable"},
+    {
+        "id": "folio_tags-5.0.1"
+    ,"action":"enable"},
+    {
+        "id": "folio_tenant-settings-6.1.2"
+    ,"action":"enable"},
+    {
+        "id": "folio_users-6.1.4"
+    ,"action":"enable"},
+    {
+        "id": "folio_work-list-1.1.6"
+    ,"action":"enable"}
+]
