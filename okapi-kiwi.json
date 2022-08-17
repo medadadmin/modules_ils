@@ -133,9 +133,7 @@
     {
         "id": "mod-login-saml-2.2.1"
     ,"action":"enable"},
-    {
-        "id": "mod-marc-editor-1.0.14"
-    ,"action":"enable"},
+    
     {
         "id": "mod-ncip-1.9.1"
     ,"action":"enable"},
