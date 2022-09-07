@@ -1,5 +1,5 @@
 [
-    {
+   {
         "id": "edge-caiasoft-1.1.2"
     ,"action":"enable"},
     {
@@ -8,7 +8,6 @@
     {
         "id": "edge-dematic-1.3.2"
     ,"action":"enable"},
-   
     {
         "id": "edge-ncip-1.6.2"
     ,"action":"enable"},
@@ -84,7 +83,6 @@
     {
         "id": "folio_handler-stripes-registry-1.0.0"
     ,"action":"enable"},
- 
     {
         "id": "folio_inventory-8.0.6-1.21.10"
     ,"action":"enable"},
