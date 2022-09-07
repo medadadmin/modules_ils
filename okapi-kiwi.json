@@ -1,13 +1,13 @@
 [
     
-    {
+   {
         "id": "mod-agreements-5.0.6"
     ,"action":"enable"},
     {
         "id": "mod-assets-1.5.6"
     ,"action":"enable"},
     {
-        "id": "mod-audit-2.2.2"
+        "id": "mod-audit-2.2.2.1.0.1"
     ,"action":"enable"},
     {
         "id": "mod-authtoken-2.9.1"
@@ -19,7 +19,7 @@
         "id": "mod-circulation-22.1.4"
     ,"action":"enable"},
     {
-        "id": "mod-circulation-storage-13.1.1.1.0.5"
+        "id": "mod-circulation-storage-13.1.1.1.0.6"
     ,"action":"enable"},
     {
         "id": "mod-codex-auc-1.1.0"
@@ -99,7 +99,6 @@
     {
         "id": "mod-heading-verification-2.3.6"
     ,"action":"enable"},
-  
     {
         "id": "mod-inventory-18.0.7.1.0.1"
     ,"action":"enable"},
@@ -116,7 +115,7 @@
         "id": "mod-kb-ebsco-java-3.9.1"
     ,"action":"enable"},
     {
-        "id": "mod-label-printing-3.0.10"
+        "id": "mod-label-printing-3.0.11"
     ,"action":"enable"},
     {
         "id": "mod-ldp-1.0.1"
@@ -131,7 +130,7 @@
         "id": "mod-login-7.5.1.1.0.3"
     ,"action":"enable"},
     {
-        "id": "mod-login-saml-2.2.1"
+        "id": "mod-login-saml-2.1.2"
     ,"action":"enable"},
     
     {
@@ -171,7 +170,7 @@
         "id": "mod-permissions-5.14.4"
     ,"action":"enable"},
     {
-        "id": "mod-pubsub-2.4.3"
+        "id": "mod-pubsub-2.4.3.1.0.0"
     ,"action":"enable"},
     {
         "id": "mod-quick-marc-2.2.4.1.0.4"
@@ -213,7 +212,7 @@
         "id": "mod-user-import-3.6.4"
     ,"action":"enable"},
     {
-        "id": "mod-users-18.1.2.1.0.0"
+        "id": "mod-users-18.1.2.1.0.1"
     ,"action":"enable"},
     {
         "id": "mod-users-bl-7.1.1"
