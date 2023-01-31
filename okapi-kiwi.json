@@ -1,10 +1,9 @@
 [
-    
-   {
+ {
         "id": "mod-agreements-5.0.6"
     ,"action":"enable"},
     {
-        "id": "mod-assets-1.5.6"
+        "id": "mod-assets-1.5.8"
     ,"action":"enable"},
     {
         "id": "mod-audit-2.2.2.1.0.1"
@@ -22,7 +21,7 @@
         "id": "mod-circulation-storage-13.1.1.1.0.6"
     ,"action":"enable"},
     {
-        "id": "mod-codex-auc-1.1.0"
+        "id": "mod-codex-auc-1.1.1"
     ,"action":"enable"},
     {
         "id": "mod-codex-ekb-1.9.1"
@@ -100,7 +99,7 @@
         "id": "mod-heading-verification-2.3.6"
     ,"action":"enable"},
     {
-        "id": "mod-inventory-18.0.7.1.0.1"
+        "id": "mod-inventory-18.0.7"
     ,"action":"enable"},
     {
         "id": "mod-inventory-storage-22.0.4.1.0.5"
@@ -115,7 +114,7 @@
         "id": "mod-kb-ebsco-java-3.9.1"
     ,"action":"enable"},
     {
-        "id": "mod-label-printing-3.0.11"
+        "id": "mod-label-printing-3.1.6"
     ,"action":"enable"},
     {
         "id": "mod-ldp-1.0.1"
@@ -127,12 +126,11 @@
         "id": "mod-local-exchange-rates-1.0.3"
     ,"action":"enable"},
     {
-        "id": "mod-login-7.5.1.1.0.3"
+        "id": "mod-login-7.5.1.1.0.5"
     ,"action":"enable"},
     {
         "id": "mod-login-saml-2.1.2"
     ,"action":"enable"},
-    
     {
         "id": "mod-ncip-1.9.1"
     ,"action":"enable"},
@@ -144,6 +142,9 @@
     ,"action":"enable"},
     {
         "id": "mod-oai-pmh-3.6.2"
+    ,"action":"enable"},
+    {
+        "id": "mod-offline-circulation-0.0.3"
     ,"action":"enable"},
     {
         "id": "mod-orders-12.2.5"
@@ -173,13 +174,13 @@
         "id": "mod-pubsub-2.4.3.1.0.0"
     ,"action":"enable"},
     {
-        "id": "mod-quick-marc-2.2.4.1.0.4"
+        "id": "mod-quick-marc-2.2.4.1.0.5"
     ,"action":"enable"},
     {
         "id": "mod-remote-storage-1.4.2"
     ,"action":"enable"},
     {
-        "id": "mod-reports-1.3.3"
+        "id": "mod-reports-1.3.4"
     ,"action":"enable"},
     {
         "id": "mod-rtac-3.1.1"
@@ -188,7 +189,7 @@
         "id": "mod-scheduler-1.3.12"
     ,"action":"enable"},
     {
-        "id": "mod-search-1.5.4.1.1.4"
+        "id": "mod-search-1.5.4.1.2.0"
     ,"action":"enable"},
     {
         "id": "mod-sender-1.6.1"
@@ -218,7 +219,7 @@
         "id": "mod-users-bl-7.1.1"
     ,"action":"enable"},
     {
-        "id": "mod-worklists-2.10.16"
+        "id": "mod-worklists-2.10.17"
     ,"action":"enable"},
     {
         "id": "mod-z3950-2.4.0"
