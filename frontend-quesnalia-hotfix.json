@@ -78,6 +78,5 @@
 {"id": "folio_users-10.1.1-1.21.0", "action": "enable"},
 {"id": "folio_vote-1.0.5", "action": "enable"},
 {"id": "folio_work-list-4.24.0", "action": "enable"},
-{"id": "folio_medad-translations-1.4.0", "action": "enable"},
-
+{"id": "folio_medad-translations-1.4.0", "action": "enable"}
 ]
