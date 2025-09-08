@@ -9,9 +9,6 @@
         "id": "edge-courses-1.4.0"
     ,"action" : "enable" },
     {
-        "id": "edge-dcb-1.1.2"
-    ,"action" : "enable" },
-    {
         "id": "edge-dematic-2.2.1"
     ,"action" : "enable" },
     {
