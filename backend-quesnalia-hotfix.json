@@ -26,7 +26,6 @@
     {"id": "mod-data-import-checkout-handler-1.2.5", "action": "enable"},
     {"id": "mod-data-import-ext-1.5.4", "action": "enable"},
     {"id": "mod-data-import-user-handler-1.2.3", "action": "enable"},
-    {"id": "mod-dcb-1.1.0", "action": "enable"},
     {"id": "mod-di-converter-storage-2.2.2.1.0.4", "action": "enable"},
     {"id": "mod-ebsconet-2.2.0", "action": "enable"},
     {"id": "mod-email-1.17.0.1.0.2", "action": "enable"},
